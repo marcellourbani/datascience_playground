@@ -1,0 +1,1 @@
+wget https://github.com/owid/covid-19-data/raw/master/public/data/owid-covid-data.csv -O data\owid-covid-data.csv
